@@ -1,0 +1,349 @@
+[{
+  "_id": {
+    "$oid": "6087eed0900bd23ccee64bbe"
+  },
+  "m_user": "bhewson",
+  "client": "bhewson",
+  "wallet": "15y7BQfCMDiPyryvziBQ7gkGLdj7HX3Xv1",
+  "private": "93fe2fe395a31e94778bc6b541c9c2d58666db2448bee2a35020b3a1260e05d7",
+  "balance": "0.00406524",
+  "profit": "-0.01683325",
+  "amount": "0",
+  "updated_at": "2021-04-27T11:00:32.447Z"
+},{
+  "_id": {
+    "$oid": "6087f457bd80e73d288efdaf"
+  },
+  "m_user": "bhewson",
+  "client": "bcosta",
+  "wallet": "12BdNwmGsuHjyXDzntJ1VXKg7Zm82dgToo",
+  "private": "b9c3d07fdee56c55bffccb5a0dcf3aeb22f3495694c7744ef3788ae70791e405",
+  "balance": "0.00536274",
+  "profit": "-0.00464911",
+  "amount": "0",
+  "updated_at": "2021-04-27T11:24:07.759Z"
+},{
+  "_id": {
+    "$oid": "6064d01891c59f044afe7203"
+  },
+  "m_user": "bhewson",
+  "client": "monexan",
+  "wallet": "15jVheSpDqxzEULetWNiGDpmMkkDBS6K6j",
+  "private": "5c5411b31f98d32296dc728a86d4cf8eeaa45d86a37fa2b2efc5b71ee61906d9",
+  "balance": "0.00910427",
+  "profit": "-0.3610135",
+  "amount": "0.0033883",
+  "updated_at": "2021-04-26T21:19:21.798Z"
+},{
+  "_id": {
+    "$oid": "60a4172e2004030a252ae558"
+  },
+  "m_user": "cleber",
+  "client": "Rodson",
+  "wallet": "1BP3XaQb8jDYTuRF13MYw3137UeBh7M6dy",
+  "private": "889224b01c7e323bd791c738b0893713b8e1fdf61b2ffd9a11398fbc1f9917fe",
+  "balance": "0.02121728",
+  "profit": "0.01004415",
+  "amount": "0",
+  "updated_at": "2021-05-18T19:36:14.684Z"
+},{
+  "_id": {
+    "$oid": "60a473e52004030a252ae55c"
+  },
+  "m_user": "bitcoinbot",
+  "client": "yurivasconcelos",
+  "wallet": "1A9GDiHExheZVBCcLn5LXcny1QguCbeHLC",
+  "private": "aca73027ff07cbe6b6740e1bbc290a71b2f0ac96791dcafc376d7389e4a6e1d7",
+  "balance": "0.04",
+  "profit": "0",
+  "amount": "0",
+  "updated_at": "2021-05-19T02:11:48.985Z"
+},{
+  "_id": {
+    "$oid": "60a47caa2004030a252ae55e"
+  },
+  "m_user": "cleber",
+  "client": "Spilla",
+  "wallet": "1MzxEh62mmdqm3L6Svdr5M4Ft7xBwQJmYX",
+  "private": "f9e0cb26d2c29527ec3555426f750b665c26a12fda653b2171fb10f67941080b",
+  "balance": "0.00586799",
+  "profit": "0.00012938",
+  "amount": "0",
+  "updated_at": "2021-05-19T02:49:14.302Z"
+},{
+  "_id": {
+    "$oid": "60a47fa52004030a252ae560"
+  },
+  "m_user": "cleber",
+  "client": "americomaia",
+  "wallet": "15SFYmZHYvPt8ELJ7pNg8FMHhrfdtqEZHK",
+  "private": "ee9fe5f952da3100ee3cfb8286cf49bf697064065cc4d21d56c36fd660d2da69",
+  "balance": "0.01910913",
+  "profit": "0.00068757",
+  "amount": "0",
+  "updated_at": "2021-05-19T03:01:57.106Z"
+},{
+  "_id": {
+    "$oid": "60a481932004030a252ae562"
+  },
+  "m_user": "cleber",
+  "client": "airtonmanera",
+  "wallet": "1NCmb6om5zYQBxVWsLpfDn85dQFirWLF5J",
+  "private": "7f5dad54aaafc99f0a8c5cf4c596cb6df09feed7abe482cc8d73e34575f3518f",
+  "balance": "0.01248509",
+  "profit": "0.00248509",
+  "amount": "0",
+  "updated_at": "2021-05-19T03:10:11.200Z"
+},{
+  "_id": {
+    "$oid": "60a482e82004030a252ae564"
+  },
+  "m_user": "cleber",
+  "client": "carloscastilho",
+  "wallet": "18y9H412JTSNoqnfm3JELEURTntYhPzE8V",
+  "private": "e710f36960d9c0bce6cc5710582119dee5f0213572aa98ad866e6b3a27702996",
+  "balance": "0.01182018",
+  "profit": "0.00397378",
+  "amount": "0",
+  "updated_at": "2021-05-19T03:15:52.715Z"
+},{
+  "_id": {
+    "$oid": "60a51f739d5a49623c7b59ae"
+  },
+  "m_user": "bitcoinbot",
+  "client": "top10 ",
+  "wallet": "1E2TXF71YTfCmbUA4SFFMYoLu4mRGtD9uK",
+  "private": "a95a194b9dc61081fc0d0896b1a705f601fd48c2ff628fd398c7e8f8151f8d80",
+  "balance": "0.005",
+  "profit": "0",
+  "amount": "0.00254329",
+  "updated_at": "2021-05-27T04:39:53.345Z"
+},{
+  "_id": {
+    "$oid": "60a5261f9d5a49623c7b59b0"
+  },
+  "m_user": "sann",
+  "client": "globo",
+  "wallet": "1LfN4dNXr6t2gNWyeyGf4iVW8g3iPaqpUs",
+  "private": "de8cf3a4f3ddd6a7705495fcfd89e8d9f5b2115ec734f36c0c8eba193e27ba17",
+  "balance": "0.00500217",
+  "profit": "0.0929584",
+  "amount": "0",
+  "updated_at": "2021-05-19T14:52:15.619Z"
+},{
+  "_id": {
+    "$oid": "60a53adc9d5a49623c7b59b2"
+  },
+  "m_user": "cleber",
+  "client": "carlosecastilho",
+  "wallet": "1C7ZtTc9pk7gYDCF7zpBUjy2pYMVWEwifC",
+  "private": "8584ab3db73ed42862453bd43b7cd25f32cbc104cab93ad2ff03a3225d20e943",
+  "balance": "0.01246295",
+  "profit": "0.00461655",
+  "amount": "0",
+  "updated_at": "2021-05-19T16:20:44.146Z"
+},{
+  "_id": {
+    "$oid": "60a5c8bc9d5a49623c7b59b5"
+  },
+  "m_user": "cleber",
+  "client": "DanielMatos",
+  "wallet": "1GzXU1qbnQNi4tyEFF4oYcgYzQdMbQYgau",
+  "private": "ab3ac30b40a946d340c2a705f86826e5565f9b30b92b5abd0ef37c1d4544f0b3",
+  "balance": "0.02553546",
+  "profit": "0.00010945",
+  "amount": "0",
+  "updated_at": "2021-05-20T02:26:04.347Z"
+},{
+  "_id": {
+    "$oid": "60a739a318c56968882e07f6"
+  },
+  "m_user": "cleber",
+  "client": "spilla_rafa",
+  "wallet": "17MgQ2qG6E3vS5owcRjGSPPjcGf5hnwXqM",
+  "private": "f40acfb5537e31ad4175ba4d470794c81323ddc8dcaf095a4464a92681543b12",
+  "balance": "0.00813493",
+  "profit": "0.00239632",
+  "amount": "0",
+  "updated_at": "2021-05-21T04:40:03.381Z"
+},{
+  "_id": {
+    "$oid": "60a7aa5918c56968882e07f8"
+  },
+  "m_user": "cleber",
+  "client": "Fernando Barbosa",
+  "wallet": "14un8KJsUxAGm6aEw2AFNtGp9AnvBtoFqQ",
+  "private": "045e226b25ec98243a9d5fec19d1810731b46b18a6fdd0a9440c2e84d359a269",
+  "balance": "0.022",
+  "profit": "0",
+  "amount": "0",
+  "updated_at": "2021-05-21T12:40:57.152Z"
+},{
+  "_id": {
+    "$oid": "60a95f1918c56968882e07fe"
+  },
+  "m_user": "cleber",
+  "client": "clarkrzo",
+  "wallet": "1Lt9uoeYAj8KYAubrPtjcGNTtsWcDFSC4a",
+  "private": "7266b1a0401ca37b32aa5ee191a32e4ffece00940d9bfdb87858cfdbcc807f54",
+  "balance": "0.01626393",
+  "profit": "-0.00287681",
+  "amount": "0",
+  "updated_at": "2021-05-22T19:44:25.881Z"
+},{
+  "_id": {
+    "$oid": "60a9acf518c56968882e0804"
+  },
+  "m_user": "jsantos",
+  "client": "Bonacom",
+  "wallet": "15wsSZS4aKAUY2JqyAvBWmqyWVkA7wNvbj",
+  "private": "3e41409a7421757f02c6893a8798853a8b4ab2f2aae330106fd6f90cf0bea07d",
+  "balance": "0.0339",
+  "profit": "0",
+  "amount": "0",
+  "updated_at": "2021-05-23T01:16:37.846Z"
+},{
+  "_id": {
+    "$oid": "60a9ae7b18c56968882e0806"
+  },
+  "m_user": "jsantos",
+  "client": "Bonarobot",
+  "wallet": "12nrp1REKabBNAAkZ2LoT7MP95fFn8Q4NR",
+  "private": "fba18b40e77e5a8ffe18a03818da2840a0cd09dab0b2ecec6bd8ffd88f6812de",
+  "balance": "0.0339",
+  "profit": "0",
+  "amount": "0",
+  "updated_at": "2021-05-23T01:23:07.420Z"
+},{
+  "_id": {
+    "$oid": "60a9bda618c56968882e0808"
+  },
+  "m_user": "bitcoinbot",
+  "client": "louannyyuri",
+  "wallet": "1MCBL62PTpQ51sxew7cMFWWdooKGDbAmsd",
+  "private": "c45b7b0403c1679841bf8e0795e8f17c49bfe9206e824473476f592f65cbc3de",
+  "balance": "0.026",
+  "profit": "0",
+  "amount": "0",
+  "updated_at": "2021-05-23T02:27:50.525Z"
+},{
+  "_id": {
+    "$oid": "60a9c03e18c56968882e080a"
+  },
+  "m_user": "bitcoinbot",
+  "client": "mestreaugusto gabriel romeo",
+  "wallet": "1Px5RJLEYmy7sDSXMLBLwG6M8qmCCeZXYp",
+  "private": "69a4c618b433b3fad625021608863ef6a21ba1a00e7578bf0b49b0313f8e0184",
+  "balance": "0.04009078",
+  "profit": "0",
+  "amount": "0",
+  "updated_at": "2021-05-23T02:38:54.562Z"
+},{
+  "_id": {
+    "$oid": "60abc71b18c56968882e080e"
+  },
+  "m_user": "sann",
+  "client": "IVANFELIX",
+  "wallet": "1DoWwbVzbevKLWPTH51GHQ1t8AvjzTV16n",
+  "private": "9411de176dffbcdfdbd36c3fc73a6b4b7ccb913ab9804111f419d5c5bdbb25ee",
+  "balance": "0.00888724",
+  "profit": "-4.56159287",
+  "amount": "0",
+  "updated_at": "2021-05-24T15:32:43.754Z"
+},{
+  "_id": {
+    "$oid": "60ac11bb18c56968882e0811"
+  },
+  "m_user": "bitcoinbot",
+  "client": "clauderson",
+  "wallet": "1FRC71tZxLdzFChnkR3TYPur2juxecyWC4",
+  "private": "29717fb08623b74ce09a9f0a15317811d87e96dab41ac8b7db1c76e283600059",
+  "balance": "0.00939606",
+  "profit": "-0.00061579",
+  "amount": "0",
+  "updated_at": "2021-05-24T20:51:07.432Z"
+},{
+  "_id": {
+    "$oid": "60ac5b1d18c56968882e0813"
+  },
+  "m_user": "bitcoinbot",
+  "client": "gfcmarcelo",
+  "wallet": "121UmUCTL5k2ACMnzF9NftxM12JR4VudqW",
+  "private": "90321c205590bae8b37a70d1d53252440dc9423b9ddc45a8cc46187362d513c3",
+  "balance": "0.005",
+  "profit": "-0.00597036",
+  "amount": "0",
+  "updated_at": "2021-05-25T02:04:13.628Z"
+},{
+  "_id": {
+    "$oid": "60adc05018c56968882e0815"
+  },
+  "m_user": "bitcoinbot",
+  "client": "alex_silva",
+  "wallet": "1DiPLBWc37PuVMzyMxYWGE5gdd1tpuMM6S",
+  "private": "1cdfaf5786a61aa256be4e83f6234c410ffb856726b1a783b9e41b659810dcb6",
+  "balance": "0.005",
+  "profit": "NaN",
+  "amount": "0",
+  "updated_at": "2021-05-26T03:28:16.438Z"
+},{
+  "_id": {
+    "$oid": "60ae732018c56968882e0818"
+  },
+  "m_user": "bitcoinbot",
+  "client": "top100",
+  "wallet": "1LKEE28JnrHfRvG51Z1q2iBLyj3idvcdfp",
+  "private": "f24b2cd9a9e4198f5bd5a3fa65e257b9773ee61264d6205da4368695dc5618a3",
+  "balance": "0.0108",
+  "profit": "0.0139788",
+  "amount": "0",
+  "updated_at": "2021-05-26T16:11:12.154Z"
+},{
+  "_id": {
+    "$oid": "60ae801218c56968882e081a"
+  },
+  "m_user": "jsantos",
+  "client": "Nunes",
+  "wallet": "1DXBYbSt8URbdLWTbcAytmGen64vx2Ma5D",
+  "private": "14d2859dc633478589ba0a4ac6b37040c4cce3c93b5db8896a43c5d8d03f6877",
+  "balance": "0.02460012",
+  "profit": "NaN",
+  "amount": "0",
+  "updated_at": "2021-05-26T17:06:26.449Z"
+},{
+  "_id": {
+    "$oid": "60ae911618c56968882e081c"
+  },
+  "m_user": "bitcoinbot",
+  "client": "Mestreaugusto",
+  "wallet": "1FnVa2BCuNgWJMdMJD8X1JupXpCUmvQG58",
+  "private": "c3c8f8ee61a6bd838bab8c697b5ee3d3be698af1175b068d12d38cb69be444c3",
+  "balance": "0.04009078",
+  "profit": "NaN",
+  "amount": "0",
+  "updated_at": "2021-05-26T18:19:02.162Z"
+},{
+  "_id": {
+    "$oid": "60aeb2d118c56968882e081e"
+  },
+  "m_user": "cleber",
+  "client": "carlos_castilho",
+  "wallet": "1A84vhoPvJS2EtD4T9syS1rzm7raA8qLYf",
+  "private": "72dc2e7b1f04ff8823bbfb8b338c8302b946312422ce20ce5585e285c5ab7dd1",
+  "balance": "0.01402792",
+  "profit": "0.0061649",
+  "amount": "0",
+  "updated_at": "2021-05-26T20:42:57.666Z"
+},{
+  "_id": {
+    "$oid": "60aec62418c56968882e0820"
+  },
+  "m_user": "cleber",
+  "client": "americo_maia",
+  "wallet": "1Phrb5bRrezo8NUac6xMtQodUcHgtGqS7u",
+  "private": "608fbcb622e608129c6d806dff72e220b8d2680d9cab56cd119a26171a655875",
+  "balance": "0.02212694",
+  "profit": "0.00370538",
+  "amount": "0",
+  "updated_at": "2021-05-26T22:05:24.660Z"
+}]

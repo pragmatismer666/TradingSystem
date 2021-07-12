@@ -1,0 +1,2482 @@
+starting server on port 5000
+bitmex gVmFg1EyPSDHMi4jBSkQzGX3 XRtirB6tNH8qeQbPQ6RNCi4h-5LNE-XHmHVw59hYGkqZ0D4H strategy3 parameter2  === exchange,key,sec,strategy,param
+bitmex 0NJZVLfnEE6qZBseXuVTEOrO 7IJefDYrCiKBCpNVzn9cR-qEKwtLyzh-EiMhDQXVp0TIQH-j strategy2 parameter1  === exchange,key,sec,strategy,param
+bitmex IsrK3924dyQft24vq96tBEc- 0Fw_74FCAQPvG3rTizk3cfY0fg_ZyM5H7YijRuSzWmBcbB6s strategy1 parameter1  === exchange,key,sec,strategy,param
+=================================================================
+bitmex YT9Yj8atl6HMx64bAEW-Ppw7 F4-dJBbQodaXnMTmwrDGXjE3gF_eppLPM8Mc8TLtTv3adA6U strategy2 parameter2  === exchange,key,sec,strategy,param
+=================================================================
+=================================================================
+=================================================================
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+ ----------------- start bitmultiorder1 
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+ ----------------- end bitmultiorder1 
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+0  1107839 1000000  ----------------- orderlen1, tporder.orderID
+ ----------------- start entry 
+ ----------------- end entry 
+1000000  --- start bitcheckvol
+57983.75 58055 false buy  ema -----------------------------------
+979526 Buy ============================= amount, side
+ ---------------------------- start bitmulti 3
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"ab715c74-1108-4039-8109-fb013098dfcf","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":28,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":28,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:18.707Z","timestamp":"2021-05-07T18:25:18.707Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"5f1f26d2-c25f-4b46-9859-883dbc73ff93","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":28,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":28,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:19.849Z","timestamp":"2021-05-07T18:25:19.849Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"216963ef-8f83-4d7c-9978-5ff525afba9c","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":28,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":28,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:20.989Z","timestamp":"2021-05-07T18:25:20.989Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"ace7b4c7-df85-45e1-a295-91a61db983a1","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":28,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":28,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:22.129Z","timestamp":"2021-05-07T18:25:22.129Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"5c16fbdb-98fd-41da-a2ff-94f7e45ea225","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":28,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":28,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:23.270Z","timestamp":"2021-05-07T18:25:23.270Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"ea5d9e39-d8f4-4d01-9539-5a4ff9ca7533","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":28,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":28,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:24.411Z","timestamp":"2021-05-07T18:25:24.411Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"1d6c5226-e2b2-4a63-a7c6-12f1969e358c","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":28,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":28,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:25.544Z","timestamp":"2021-05-07T18:25:25.544Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"44a56a9d-4632-4791-a396-8111021efe13","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":28,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":28,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:26.687Z","timestamp":"2021-05-07T18:25:26.687Z"}
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+update Filled d11838c7-2f01-4e07-ade7-d6da27007a4e   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ----------------- start entry 
+ ---------------------------- end bitmulti 3 {"orderID":"a40a35fa-6a8b-4c83-bece-7b4e208d5b44","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":56,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":56,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:27.825Z","timestamp":"2021-05-07T18:25:27.825Z"}
+-----------------------------------------------------------------
+ ----------------- end entry 
+ ------------------------------------- result  58072.0093 56
+ ------------------------------------- tporder  [ 'orderID' ] undefined undefined
+ ------------------- bitupdatetp error  ReferenceError: delexpir is not defined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:288:90)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"8da3cda1-5f7f-4577-8480-b45326c9e245","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":56,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":56,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:28.952Z","timestamp":"2021-05-07T18:25:28.952Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+-----------------------------------------------------------------
+ ---------------------------- end bitmulti 3 {"orderID":"1930a6a4-58fd-4775-8b37-d8ab45ef5500","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":56,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":56,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:30.083Z","timestamp":"2021-05-07T18:25:30.083Z"}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"a62e828b-881f-4983-8a1c-0649ab09ff2e","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":56,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":56,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:31.229Z","timestamp":"2021-05-07T18:25:31.229Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"c2dd4228-7b29-4488-96aa-7990d388a13d","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":56,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":56,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:32.361Z","timestamp":"2021-05-07T18:25:32.361Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"0ee1f216-c269-4a30-a74e-313255b671ac","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":56,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":56,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:33.499Z","timestamp":"2021-05-07T18:25:33.499Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"6d4be9ea-db66-4e11-b8da-e7f7c26bc5c3","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":56,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":56,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:34.637Z","timestamp":"2021-05-07T18:25:34.637Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"a78b71ef-1515-485b-b215-d901f40b77db","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":56,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":56,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:35.795Z","timestamp":"2021-05-07T18:25:35.795Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"orderID":"52f5bc99-23eb-40bf-8789-7b3a09a9c081","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":56,"price":58272,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":56,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T18:25:36.947Z","timestamp":"2021-05-07T18:25:36.947Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411938","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411939","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411940","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411941","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411942","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411943","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411944","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411946","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411947","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411948","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411949","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411950","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411951","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411952","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411953","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411955","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411956","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411957","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411958","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411959","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411960","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411961","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411963","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411964","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411965","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411966","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411967","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411968","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411969","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411970","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411972","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411973","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411974","name":"HTTPError"}}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411975","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411976","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411977","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411978","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411980","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411981","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411982","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411983","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411984","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411985","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411986","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411987","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411989","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411990","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411991","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411992","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411993","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411994","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411995","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411997","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411998","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620411999","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412000","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412001","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412002","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412003","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412005","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412006","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412007","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412008","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412009","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412010","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412011","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412012","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412014","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412015","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412016","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412017","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412018","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412019","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412020","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412021","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412023","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412024","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412025","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412026","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412027","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412028","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412029","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412031","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412032","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412033","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412034","name":"HTTPError"}}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412035","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412036","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412037","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412039","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412040","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412041","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412042","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412043","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412044","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412045","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412046","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412048","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412049","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412050","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412051","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412052","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412053","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412054","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412056","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412057","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412058","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412059","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412060","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412061","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412062","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412064","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412065","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412066","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412067","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412068","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412069","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412070","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412071","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412073","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412074","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412075","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412076","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412077","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412078","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412079","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412081","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412082","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412083","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412084","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412085","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412086","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412087","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412089","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412090","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412091","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412092","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412093","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412094","name":"HTTPError"}}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412095","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412097","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412098","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412099","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412100","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412101","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412102","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412103","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412105","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412106","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412107","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412108","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412109","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412110","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412111","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412112","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412114","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412115","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412116","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412117","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412118","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412119","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412120","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412121","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412123","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412124","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412125","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412126","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412127","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412128","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412129","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412131","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412132","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412133","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412134","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412135","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412136","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412137","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412138","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412140","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412141","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412142","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412143","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412144","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412145","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412146","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412148","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412149","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412150","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412151","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412152","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412153","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412154","name":"HTTPError"}}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412155","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412157","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412158","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412159","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412160","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412161","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412162","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412163","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412165","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412166","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412167","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412168","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3 {"error":{"message":"This request has expired - `expires` is in the past. Current time: 1620412169","name":"HTTPError"}}
+ ----------------- start entry 
+ ----------------- end entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async postRes (/var/www/backend/server/common.js:50:3)
+    at async bitmultiorder3 (/var/www/backend/server/bitmex.js:469:22)
+    at async bitcheckvol (/var/www/backend/server/bitmex.js:411:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:889:27) {
+  type: 'invalid-json'
+}
+ ---------------------------- end bitmulti 3 undefined
+ ---------------------- error in bitmulit 3 end take profit TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at bitmultiorder3 (/var/www/backend/server/bitmex.js:471:20)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async bitcheckvol (/var/www/backend/server/bitmex.js:411:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:889:27)
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitmultiorder3 (/var/www/backend/server/bitmex.js:457:24)
+    at async bitcheckvol (/var/www/backend/server/bitmex.js:411:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:889:27) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ---------------------- error in bitmulit 3 end take profit TypeError: Cannot read property 'currentQty' of undefined
+    at bitmultiorder3 (/var/www/backend/server/bitmex.js:459:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async bitcheckvol (/var/www/backend/server/bitmex.js:411:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:889:27)
+ ----------------- start entry 
+ ----------------- end entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async postRes (/var/www/backend/server/common.js:50:3)
+    at async bitmultiorder3 (/var/www/backend/server/bitmex.js:469:22)
+    at async bitcheckvol (/var/www/backend/server/bitmex.js:411:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:889:27) {
+  type: 'invalid-json'
+}
+ ---------------------------- end bitmulti 3 undefined
+ ---------------------- error in bitmulit 3 end take profit TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at bitmultiorder3 (/var/www/backend/server/bitmex.js:471:20)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async bitcheckvol (/var/www/backend/server/bitmex.js:411:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:889:27)
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitmultiorder3 (/var/www/backend/server/bitmex.js:457:24)
+    at async bitcheckvol (/var/www/backend/server/bitmex.js:411:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:889:27) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ---------------------- error in bitmulit 3 end take profit TypeError: Cannot read property 'currentQty' of undefined
+    at bitmultiorder3 (/var/www/backend/server/bitmex.js:459:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async bitcheckvol (/var/www/backend/server/bitmex.js:411:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:889:27)
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitmultiorder3 (/var/www/backend/server/bitmex.js:457:24)
+    at async bitcheckvol (/var/www/backend/server/bitmex.js:411:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:889:27) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ---------------------- error in bitmulit 3 end take profit TypeError: Cannot read property 'currentQty' of undefined
+    at bitmultiorder3 (/var/www/backend/server/bitmex.js:459:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async bitcheckvol (/var/www/backend/server/bitmex.js:411:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:889:27)
+ --------------------- break ; in bitmult 3 end ; return result 
+ ---------------------------------------------- end bitcheckvol
+bitstrategy3 error TypeError: Cannot read property 'orderQty' of undefined
+    at WebSocket.<anonymous> (/var/www/backend/server/routes.js:890:85)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+await bitdelopp(key,secret,orderopt,values,orders,strategy2)
+ ----------------- start bitdelopp 
+-----------------------------------------------------------------
+await bitdelopp(key,secret,orderopt,values,orders,strategy2)
+ ----------------- start bitdelopp 
+ ----------------- start entry 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:161:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:783:15) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+48eab5be-5e86-44b1-b7f3-40ab5db378e8 ==== orders[m].orderID 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:161:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:783:15) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+bb4d4bb9-34c1-4760-a08c-b966e4357069 ==== orders[m].orderID 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order/all reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async fixOrder (/var/www/backend/server/common.js:67:3)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:203:9)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:783:15) {
+  type: 'invalid-json'
+}
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order/all reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async fixOrder (/var/www/backend/server/common.js:67:3)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:203:9)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:783:15) {
+  type: 'invalid-json'
+}
+ReferenceError: result is not defined
+    at fixOrder (/var/www/backend/server/common.js:80:3)
+    at runMicrotasks (<anonymous>)
+    at runNextTicks (internal/process/task_queues.js:62:5)
+    at listOnTimeout (internal/timers.js:523:9)
+    at processTimers (internal/timers.js:497:7)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:203:9)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:783:15)  == delopp
+ ----------------- end bitdelopp 
+ReferenceError: result is not defined
+    at fixOrder (/var/www/backend/server/common.js:80:3)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:203:9)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:783:15)  == delopp
+ ----------------- end bitdelopp 
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+update Filled bc484e2e-9b53-4fd6-977c-f1bffa607328   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled de6b6441-19b9-4755-b0bf-7015a84d8285   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+update Filled 64d00b5a-c091-494b-b1fc-914edf7b9f9f   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+ =============================== ++++++++++++++++++++++++ =================================
+ ---------------- start status clients number :  4
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async checkbot (/var/www/backend/server/routes.js:996:28)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ --------------------- checkbot existOrders.length  clube365 strategy3 undefined
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async checkbot (/var/www/backend/server/routes.js:1008:14)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ --------------------- check bot m_clients[i].id, m_clients[i].email error  gVmFg1EyPSDHMi4jBSkQzGX3 clube365lucro@gmail.com TypeError: Cannot read property 'unrealisedPnl' of undefined
+    at checkbot (/var/www/backend/server/routes.js:1009:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40)
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async checkbot (/var/www/backend/server/routes.js:996:28)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ --------------------- checkbot existOrders.length  monexan strategy2 undefined
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async checkbot (/var/www/backend/server/routes.js:1008:14)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ --------------------- check bot m_clients[i].id, m_clients[i].email error  0NJZVLfnEE6qZBseXuVTEOrO monexchan@gmail.com TypeError: Cannot read property 'unrealisedPnl' of undefined
+    at checkbot (/var/www/backend/server/routes.js:1009:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40)
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async checkbot (/var/www/backend/server/routes.js:996:28)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ --------------------- checkbot existOrders.length  bhewson strategy1 undefined
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async checkbot (/var/www/backend/server/routes.js:1008:14)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ --------------------- check bot m_clients[i].id, m_clients[i].email error  IsrK3924dyQft24vq96tBEc- hewson000@gmail.com TypeError: Cannot read property 'unrealisedPnl' of undefined
+    at checkbot (/var/www/backend/server/routes.js:1009:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40)
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async checkbot (/var/www/backend/server/routes.js:996:28)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ --------------------- checkbot existOrders.length  bcosta strategy2 undefined
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async checkbot (/var/www/backend/server/routes.js:1008:14)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ --------------------- check bot m_clients[i].id, m_clients[i].email error  YT9Yj8atl6HMx64bAEW-Ppw7 bcosta@sokkerpro.com TypeError: Cannot read property 'unrealisedPnl' of undefined
+    at checkbot (/var/www/backend/server/routes.js:1009:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40)
+ =============================== ++++++++++++++++++++++++ =================================
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+update Filled 70c1fd3f-39e5-40dd-a388-8cc059069c56   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+update Filled 19916855-d894-4b73-a912-e28e6aca3d1d   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+update Filled 6722213d-2e66-4721-bf1a-d5e9c2ea3fd1   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+ 86a438dd-eb8d-4c87-89d5-f6b180f54f11  === tporder.orderID, 
+ await bitdelopp(key,secret,orderopt,values,orders,strategy1); 
+ ----------------- start bitdelopp 
+-----------------------------------------------------------------
+update Filled a9e869f1-dd05-4619-bc19-1d22402b74b0   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:161:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:671:17) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+86a438dd-eb8d-4c87-89d5-f6b180f54f11 ==== orders[m].orderID 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order/all reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async fixOrder (/var/www/backend/server/common.js:67:3)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:203:9)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:671:17) {
+  type: 'invalid-json'
+}
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+ReferenceError: result is not defined
+    at fixOrder (/var/www/backend/server/common.js:80:3)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:203:9)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:671:17)  == delopp
+ ----------------- end bitdelopp 
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+update Filled d9e726fc-e0f6-47da-8c5d-3c8bc3b71cb0   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+update Filled 69642b7f-e9c2-4f15-bb71-ddfb49e5d439   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled 308c1b23-0624-4cbb-ab02-be4d1ffffe5c   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+update Filled 08a70216-7f1e-48f8-9791-4105d60368ab   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled 2ba23b05-0bfb-4069-badc-71d0dd486703   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+await bitdelopp(key,secret,orderopt,values,orders,strategy2)
+ ----------------- start bitdelopp 
+-----------------------------------------------------------------
+update Filled abfeb7f8-f4da-46ca-8d6e-138d3e0f1cce   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+ ----------------- start entry 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:161:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:783:15) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+167ea276-0372-4cbd-aa24-63a1b0a364d6 ==== orders[m].orderID 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order/all reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async fixOrder (/var/www/backend/server/common.js:67:3)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:203:9)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:783:15) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+update Filled 71c3f114-9713-43a6-9416-f61c5b684313   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled 40d675e0-c68a-4f60-bdc4-7593bb6e6445   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ReferenceError: result is not defined
+    at fixOrder (/var/www/backend/server/common.js:80:3)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:203:9)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:783:15)  == delopp
+ ----------------- end bitdelopp 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+update Filled 678f4f5f-9558-4706-afee-7675115e4d28   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+update Filled c1462590-42be-429c-8342-ee75f9a96b90   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+await bitdelopp(key,secret,orderopt,values,orders,strategy2)
+ ----------------- start bitdelopp 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+ ----------------- start entry 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:161:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:783:15) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+c8635128-a2e6-4b5b-9fae-c9ffd5f8869e ==== orders[m].orderID 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order/all reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async fixOrder (/var/www/backend/server/common.js:67:3)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:203:9)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:783:15) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+update Filled ecbad142-3047-4038-aeb5-0f2c9ef48a24   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled d89dd29a-3194-4184-8fb5-be15ce158d51   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ReferenceError: result is not defined
+    at fixOrder (/var/www/backend/server/common.js:80:3)
+    at async bitdelopp (/var/www/backend/server/bitmex.js:203:9)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:783:15)  == delopp
+ ----------------- end bitdelopp 
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+update Filled 0583e30e-4a02-43a4-b65a-d3e0feea8aff   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async bitupdatetp (/var/www/backend/server/bitmex.js:265:18)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ ------------------- bitupdatetp error  TypeError: Cannot read property 'avgEntryPrice' of undefined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:266:74)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+ =============================== ++++++++++++++++++++++++ =================================
+ ---------------- start status clients number :  4
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async checkbot (/var/www/backend/server/routes.js:996:28)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ --------------------- checkbot existOrders.length  clube365 strategy3 undefined
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async checkbot (/var/www/backend/server/routes.js:1008:14)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ --------------------- check bot m_clients[i].id, m_clients[i].email error  gVmFg1EyPSDHMi4jBSkQzGX3 clube365lucro@gmail.com TypeError: Cannot read property 'unrealisedPnl' of undefined
+    at checkbot (/var/www/backend/server/routes.js:1009:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40)
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async checkbot (/var/www/backend/server/routes.js:996:28)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ --------------------- checkbot existOrders.length  monexan strategy2 undefined
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async checkbot (/var/www/backend/server/routes.js:1008:14)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ --------------------- check bot m_clients[i].id, m_clients[i].email error  0NJZVLfnEE6qZBseXuVTEOrO monexchan@gmail.com TypeError: Cannot read property 'unrealisedPnl' of undefined
+    at checkbot (/var/www/backend/server/routes.js:1009:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40)
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async checkbot (/var/www/backend/server/routes.js:996:28)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ --------------------- checkbot existOrders.length  bhewson strategy1 undefined
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async checkbot (/var/www/backend/server/routes.js:1008:14)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ --------------------- check bot m_clients[i].id, m_clients[i].email error  IsrK3924dyQft24vq96tBEc- hewson000@gmail.com TypeError: Cannot read property 'unrealisedPnl' of undefined
+    at checkbot (/var/www/backend/server/routes.js:1009:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40)
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async checkbot (/var/www/backend/server/routes.js:996:28)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ --------------------- checkbot existOrders.length  bcosta strategy2 undefined
+ ----------------- start entry 
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/position?filter=%7B%22symbol%22%3A%22XBTUSD%22%2C%22account%22%3A%22MxXFniZ2XQ4PmIoNSjDdsG3V%22%7D reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async getEntry (/var/www/backend/server/bitmex.js:55:14)
+    at async checkbot (/var/www/backend/server/routes.js:1008:14)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40) {
+  type: 'invalid-json'
+}
+ ----------------- end entry 
+ --------------------- check bot m_clients[i].id, m_clients[i].email error  YT9Yj8atl6HMx64bAEW-Ppw7 bcosta@sokkerpro.com TypeError: Cannot read property 'unrealisedPnl' of undefined
+    at checkbot (/var/www/backend/server/routes.js:1009:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Timeout._onTimeout (/var/www/backend/server/routes.js:66:40)
+ =============================== ++++++++++++++++++++++++ =================================
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+FetchError: invalid json response body at https://www.bitmex.com/api/v1/order?symbol=XBT&filter=%7B%22open%22%3A%22true%22%7D&reverse=false reason: Unexpected token < in JSON at position 0
+    at /var/www/backend/node_modules/node-fetch/lib/body.js:48:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async getRes (/var/www/backend/server/common.js:36:3)
+    at async checkOrders (/var/www/backend/server/bitmex.js:24:14)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:882:29) {
+  type: 'invalid-json'
+}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ 0aac0522-e9b4-4acd-94c9-52ccf561a487  === tporder.orderID, 
+ await bitdelopp(key,secret,orderopt,values,orders,strategy1); 
+ ----------------- start bitdelopp 
+-----------------------------------------------------------------
+update Filled 0c0e5398-c3ba-48b0-9825-7e538927cfc0   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled ab374b25-f387-423f-a9de-83ca883e7898   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- start entry 
+ ----------------- end entry 
+0aac0522-e9b4-4acd-94c9-52ccf561a487 ==== orders[m].orderID 
+ ----------------- end entry 
+ ------------------------------------- result  57837 644
+ ------------------------------------- tporder  [ 'orderID' ] undefined undefined
+ ------------------- bitupdatetp error  ReferenceError: delexpir is not defined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:288:90)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+update Filled 14d88603-34d3-4713-b2ff-a39244e20e4d   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  57837 644
+ ------------------------------------- tporder  [ 'orderID' ] undefined undefined
+ ------------------- bitupdatetp error  ReferenceError: delexpir is not defined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:288:90)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+update Filled 40d425fc-b52e-4015-b2c6-d52701f6bac1   ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+ ----------------- start entry 
+symbol=XBTUSD&side=Sell&orderQty=24&price=57920&ordType=Limit {"orderID":"6db1e9ab-4215-4405-9c8a-02898348ec4f","clOrdID":"","clOrdLinkID":"","account":306753,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":24,"price":57920,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":24,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-07T19:32:07.352Z","timestamp":"2021-05-07T19:32:07.352Z"}  ----------------- profitable order 
+ ----------------- end bitdelopp 
+ ----------------- end entry 
+ ------------------------------------- result  57836.8999 672
+ ------------------------------------- tporder  [ 'orderID' ] undefined undefined
+ ------------------- bitupdatetp error  ReferenceError: delexpir is not defined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:288:90)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  57836.8999 700
+ ------------------------------------- tporder  [ 'orderID' ] undefined undefined
+ ------------------- bitupdatetp error  ReferenceError: delexpir is not defined
+    at bitupdatetp (/var/www/backend/server/bitmex.js:288:90)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async WebSocket.<anonymous> (/var/www/backend/server/routes.js:912:32)
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check

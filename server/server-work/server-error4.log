@@ -1,0 +1,5 @@
+Error: not opened
+    at WebSocket.ping (/var/www/backend/node_modules/bitmex-websocket/node_modules/ws/lib/WebSocket.js:160:11)
+    at Timeout._onTimeout (/var/www/backend/server/routes.js:856:44)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)

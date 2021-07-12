@@ -1,0 +1,494 @@
+[{
+  "_id": {
+    "$oid": "6064d01891c59f044afe7202"
+  },
+  "name": "monexan",
+  "username": "monexan",
+  "email": "monexchan@gmail.com",
+  "created_by": "bhewson",
+  "id": "0NJZVLfnEE6qZBseXuVTEOrO",
+  "sec": "7IJefDYrCiKBCpNVzn9cR-qEKwtLyzh-EiMhDQXVp0TIQH-j",
+  "exchange": "bitmex",
+  "strategy": "strategy2",
+  "param_id": "parameter1",
+  "balance": "0.072824",
+  "status": "pause",
+  "created_at": "2021-03-31T19:40:08.490Z",
+  "updated_at": "2021-05-17T11:55:45.801Z"
+},{
+  "_id": {
+    "$oid": "6087f457bd80e73d288efdae"
+  },
+  "name": "Bono Sting Costa",
+  "username": "bcosta",
+  "email": "bcosta@sokkerpro.com",
+  "created_by": "bhewson",
+  "id": "YT9Yj8atl6HMx64bAEW-Ppw7",
+  "sec": "F4-dJBbQodaXnMTmwrDGXjE3gF_eppLPM8Mc8TLtTv3adA6U",
+  "exchange": "bitmex",
+  "strategy": "strategy2",
+  "param_id": "parameter1",
+  "balance": "0.0094198",
+  "status": "pause",
+  "created_at": "2021-04-27T11:24:07.759Z",
+  "updated_at": "2021-05-16T19:13:21.890Z"
+},{
+  "_id": {
+    "$oid": "6087eed0900bd23ccee64bbd"
+  },
+  "name": "Bono Sting Heuson Costa",
+  "username": "bhewson",
+  "email": "hewson000@gmail.com",
+  "created_by": "bhewson",
+  "id": "IsrK3924dyQft24vq96tBEc-",
+  "sec": "0Fw_74FCAQPvG3rTizk3cfY0fg_ZyM5H7YijRuSzWmBcbB6s",
+  "exchange": "bitmex",
+  "strategy": "strategy1",
+  "param_id": "parameter1",
+  "balance": "0.00444763",
+  "status": "pause",
+  "created_at": "2021-04-27T11:00:32.447Z",
+  "updated_at": "2021-05-23T22:41:53.935Z"
+},{
+  "_id": {
+    "$oid": "60a4172e2004030a252ae557"
+  },
+  "name": "Rodson Roger Lima do Nascimento ",
+  "username": "Rodson",
+  "email": "rodsonroger@gmail.com",
+  "created_by": "cleber",
+  "id": "XkWq56x0OPVIy86HxL3BepcN",
+  "sec": "mgwi-GVYzqdGz3shtuPwz3tPePO0M6rpUoR1M11MwEzM3nFr",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.02232266",
+  "status": "pause",
+  "created_at": "2021-05-18T19:36:14.684Z",
+  "updated_at": "2021-05-18T19:36:14.684Z"
+},{
+  "_id": {
+    "$oid": "60a473e52004030a252ae55b"
+  },
+  "name": "Yuri Castello Branco de Vasconcelos",
+  "username": "yurivasconcelos",
+  "email": "yuricastello@gmail.com",
+  "created_by": "bitcoinbot",
+  "id": "v8lDV8mzgse8I_6v5PtpMob4",
+  "sec": "nqqk05e8OOVf6OPHeixB0swsWFAs-zXHNL7T8EWXqnvQBn4j",
+  "exchange": "bitmex",
+  "strategy": "strategy1",
+  "param_id": "parameter1",
+  "balance": "0.02946226",
+  "status": "pause",
+  "created_at": "2021-05-19T02:11:48.985Z",
+  "updated_at": "2021-05-19T02:11:48.985Z"
+},{
+  "_id": {
+    "$oid": "60a47caa2004030a252ae55d"
+  },
+  "name": "Rafael Spilla",
+  "username": "Spilla",
+  "email": "rafaspilla@gmail.com",
+  "created_by": "cleber",
+  "id": "BhhJQ3jL-stqXjaqMHcL3_gw",
+  "sec": "OEaU9KMyUhl119jh3rBmTDnBoMKx0zDaOFGdxtsXQT8fRA0l",
+  "exchange": "bitmex",
+  "strategy": "strategy1",
+  "param_id": "parameter1",
+  "balance": "0.00617108",
+  "status": "pause",
+  "created_at": "2021-05-19T02:49:14.302Z",
+  "updated_at": "2021-05-19T02:49:14.302Z"
+},{
+  "_id": {
+    "$oid": "60a47fa52004030a252ae55f"
+  },
+  "name": "Américo Maia",
+  "username": "americomaia",
+  "email": "contatoamericomaia@gmail.com",
+  "created_by": "cleber",
+  "id": "0fy3UJIsVVL2oKH4kuv3Saad",
+  "sec": "6NFTYPJePgxU0y1KT1Cqtr549ZSeTLqQr5fFBPaD00fW7Oq8",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.01931432",
+  "status": "pause",
+  "created_at": "2021-05-19T03:01:57.106Z",
+  "updated_at": "2021-05-19T03:01:57.106Z"
+},{
+  "_id": {
+    "$oid": "60a481932004030a252ae561"
+  },
+  "name": "Airton Luiz",
+  "username": "airtonmanera",
+  "email": "airtonmanera@hotmail.com",
+  "created_by": "cleber",
+  "id": "Zwni7pD_ujQqpHWLarjDN8de",
+  "sec": "a19DYO3XU68yw3a7n1Z1ZWCnejHo8k3hUtlsRnwRRq_Ucw8O",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.01314319",
+  "status": "pause",
+  "created_at": "2021-05-19T03:10:11.200Z",
+  "updated_at": "2021-05-19T03:10:11.200Z"
+},{
+  "_id": {
+    "$oid": "60a482e82004030a252ae563"
+  },
+  "name": "Carlos Cartilho",
+  "username": "carloscastilho",
+  "email": "carlosecastilho@gmail.com",
+  "created_by": "cleber",
+  "id": "cEhqMdEm_fIi_ctJnsR088FM",
+  "sec": "TghHmUKq3vZ6EMsd5OTfPrh_NfhvIWKtgLVQ9YFhR52V6zyZ",
+  "exchange": "bitmex",
+  "strategy": "strategy1",
+  "param_id": "parameter1",
+  "balance": "0.01246295",
+  "status": "pause",
+  "created_at": "2021-05-19T03:15:52.715Z",
+  "updated_at": "2021-05-19T03:15:52.715Z"
+},{
+  "_id": {
+    "$oid": "60a51f739d5a49623c7b59ad"
+  },
+  "name": "josiel reis sousa ",
+  "username": "top10 ",
+  "email": "negociosembtc@gmail.com",
+  "created_by": "bitcoinbot",
+  "id": "cOvdr3WzhmkMYZjV5CGFVg8L",
+  "sec": "zl11t6J17T_p5bkPqwW77mfkEpyYZFxTSSDcZvl7UhdgOvl2",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.10401416",
+  "status": "pause",
+  "created_at": "2021-05-19T14:23:47.097Z",
+  "updated_at": "2021-05-19T14:23:47.097Z"
+},{
+  "_id": {
+    "$oid": "60a5261f9d5a49623c7b59af"
+  },
+  "name": "globobiz",
+  "username": "globo",
+  "email": "btrader2010@gmail.com",
+  "created_by": "sann",
+  "id": "6rMP6FpkQ7X7zZ_J8lEbGfN3",
+  "sec": "XoS1CZIzrhBTf2QX43pes8Y_Y-5iclG-uAlNn6SJsY_91x97",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.00525305",
+  "status": "pause",
+  "created_at": "2021-05-19T14:52:15.619Z",
+  "updated_at": "2021-05-19T14:52:15.619Z"
+},{
+  "_id": {
+    "$oid": "60a53adc9d5a49623c7b59b1"
+  },
+  "name": "Carlos Castilho",
+  "username": "carlosecastilho",
+  "email": "carlosecastilho@outlook.com",
+  "created_by": "cleber",
+  "id": "q_6BNhUlI8N4zJY6m2W7CKBr",
+  "sec": "Dt8ddCFIZCwA4KdHaCJiuHEQC2z2JS3LXJ9X_Hef7T3F3jPr",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.01390388",
+  "status": "pause",
+  "created_at": "2021-05-19T16:20:44.146Z",
+  "updated_at": "2021-05-19T16:20:44.146Z"
+},{
+  "_id": {
+    "$oid": "60a5c8bc9d5a49623c7b59b4"
+  },
+  "name": "Daniel Matos",
+  "username": "DanielMatos",
+  "email": "danielmatos.contatos@gmail.com",
+  "created_by": "cleber",
+  "id": "91PojXzyipsFAejxp95VB6Pm",
+  "sec": "YRYq0mNm69drmFAds4cctE7YRu87PalvNNvCJ7H_jnXin15l",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.02553546",
+  "status": "pause",
+  "created_at": "2021-05-20T02:26:04.347Z",
+  "updated_at": "2021-05-20T02:26:04.347Z"
+},{
+  "_id": {
+    "$oid": "60a739a318c56968882e07f5"
+  },
+  "name": "Rafael Spilla",
+  "username": "spilla_rafa",
+  "email": "r_spilla@yahoo.com.br",
+  "created_by": "cleber",
+  "id": "YMbopRi1GbU6jAxWlJVOlHYb",
+  "sec": "jOBwDpdZkZeQ_JKtbKWNjxISmvPKrLsG4pQB0XgUnK10hoLV",
+  "exchange": "bitmex",
+  "strategy": "strategy1",
+  "param_id": "parameter1",
+  "balance": "0.00915102",
+  "status": "pause",
+  "created_at": "2021-05-21T04:40:03.381Z",
+  "updated_at": "2021-05-21T04:40:03.381Z"
+},{
+  "_id": {
+    "$oid": "60a7aa5918c56968882e07f7"
+  },
+  "name": "Fernando Barbosa",
+  "username": "Fernando Barbosa",
+  "email": "fernandobarbosanh@hotmail.com",
+  "created_by": "cleber",
+  "id": "4KTBZlCnUB2XDkLHjy1H7T4r",
+  "sec": "mqG5BxkyxS03p-u0byzn5b79P6cQ3hoftclO-3uOXUCS_x-F",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.02374492",
+  "status": "pause",
+  "created_at": "2021-05-21T12:40:57.152Z",
+  "updated_at": "2021-05-21T12:40:57.152Z"
+},{
+  "_id": {
+    "$oid": "60a95f1918c56968882e07fd"
+  },
+  "name": "rosangela jesus souza",
+  "username": "clarkrzo",
+  "email": "clarksuporte.trader@gmail.com",
+  "created_by": "cleber",
+  "id": "jno-UowU3PpXxsPDzF1GQohl",
+  "sec": "yBmlq8sRlEBiOK2or-oQeJ4-1R6yeRtOFEI6uQUFVteylz4q",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.01712151",
+  "status": "pause",
+  "created_at": "2021-05-22T19:44:25.881Z",
+  "updated_at": "2021-05-22T19:44:25.881Z"
+},{
+  "_id": {
+    "$oid": "60a9acf518c56968882e0803"
+  },
+  "name": "DANIEL BONAGAMBA COMINATO",
+  "username": "Bonacom",
+  "email": "bonacomdaniel@gmail.com",
+  "created_by": "jsantos",
+  "id": "n9MpQCNIQHCL4tutFm1RTDep",
+  "sec": "-p14hdpZ69MJxAbERC6KJC53VKPFEuVsieyj59TQ55KffXgQ",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.0339",
+  "status": "pause",
+  "created_at": "2021-05-23T01:16:37.846Z",
+  "updated_at": "2021-05-23T01:16:37.846Z"
+},{
+  "_id": {
+    "$oid": "60a9ae7b18c56968882e0805"
+  },
+  "name": "DANIEL BONAGAMBA COMINATO",
+  "username": "Bonarobot",
+  "email": "bonacomdaniel1@gmail.com",
+  "created_by": "jsantos",
+  "id": "B7LxwGgaNfhszSweAM49OJfA",
+  "sec": "b0bpE2-Wd-E9iBSS6ArgGMeKmJQ4fjwQF3vFrd1NWkRgXMGy",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.03483387",
+  "status": "pause",
+  "created_at": "2021-05-23T01:23:07.420Z",
+  "updated_at": "2021-05-23T01:23:07.420Z"
+},{
+  "_id": {
+    "$oid": "60a9bda618c56968882e0807"
+  },
+  "name": "Yuri Castello Branco de Vasconcelos",
+  "username": "louannyyuri",
+  "email": "yurivasconcelos2025@gmail.com",
+  "created_by": "bitcoinbot",
+  "id": "naxO_Cqyx7SdxgFayzr1r_Ah",
+  "sec": "Z8lq_t4Ox7O6TH_6OD8IQZKGmiLz3y8LhqrtIGoNBoRTdZ8A",
+  "exchange": "bitmex",
+  "strategy": "strategy2",
+  "param_id": "parameter1",
+  "balance": "0.02645514",
+  "status": "pause",
+  "created_at": "2021-05-23T02:27:50.525Z",
+  "updated_at": "2021-05-23T02:27:50.525Z"
+},{
+  "_id": {
+    "$oid": "60a9c03e18c56968882e0809"
+  },
+  "name": "Yuri Castello Branco de Vasconcelos",
+  "username": "mestreaugusto gabriel romeo",
+  "email": "gabrielromeoagroecologia@gmail.com",
+  "created_by": "bitcoinbot",
+  "id": "rcCAOEABr0gFYgBa_7BUt86X",
+  "sec": "h6-qwtXJ7wonP4kesVe1iLFVyaeg5xcifZsvnk6vH75YygWP",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter2",
+  "balance": "0.04009078",
+  "status": "pause",
+  "created_at": "2021-05-23T02:38:54.562Z",
+  "updated_at": "2021-05-23T02:38:54.562Z"
+},{
+  "_id": {
+    "$oid": "60abc71b18c56968882e080d"
+  },
+  "name": "ivan felix",
+  "username": "IVANFELIX",
+  "email": "8elosivanfelix@gmail.com",
+  "created_by": "sann",
+  "id": "jMm9xzoqaKrW6JV8dj1FVroe",
+  "sec": "YX8lHR4cbhg7uDJmjBHazBzt_nx5WJz_NSCHTbci4DidFX_Q",
+  "exchange": "bitmex",
+  "strategy": "strategy2",
+  "param_id": "parameter1",
+  "balance": "0.00888641",
+  "status": "pause",
+  "created_at": "2021-05-24T15:32:43.754Z",
+  "updated_at": "2021-05-24T15:32:43.754Z"
+},{
+  "_id": {
+    "$oid": "60ac11bb18c56968882e0810"
+  },
+  "name": "Clauderson Machado Dos Santos",
+  "username": "clauderson",
+  "email": "machadoclau13@gmail.com",
+  "created_by": "bitcoinbot",
+  "id": "a77RVcojxUucCMiw5v0r-rCK",
+  "sec": "m1Kbyw0In03Nra1hPvSpuzTwke88gTSnnopSH3D_SCorszk6",
+  "exchange": "bitmex",
+  "strategy": "strategy1",
+  "param_id": "parameter1",
+  "balance": "0.00946191",
+  "status": "pause",
+  "created_at": "2021-05-24T20:51:07.432Z",
+  "updated_at": "2021-05-24T20:51:07.432Z"
+},{
+  "_id": {
+    "$oid": "60ac5b1d18c56968882e0812"
+  },
+  "name": "Marcelo",
+  "username": "gfcmarcelo",
+  "email": "gfcmarcelo@hotmail.com",
+  "created_by": "bitcoinbot",
+  "id": "S8s68Na1c6BQPzG6yTkgXuFb",
+  "sec": "fuaeVa8HiHtrS_mXqYxEyaYZpbi6VQ-1N_0dxpv_aqNlLjj-",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter2",
+  "balance": "0.005",
+  "status": "pause",
+  "created_at": "2021-05-25T02:04:13.628Z",
+  "updated_at": "2021-05-25T02:04:13.628Z"
+},{
+  "_id": {
+    "$oid": "60adc05018c56968882e0814"
+  },
+  "name": "Alex Silva",
+  "username": "alex_silva",
+  "email": "bot@tecinfosolucoes.com.br",
+  "created_by": "bitcoinbot",
+  "id": "vlDaglFb1H5kxlxrl8YsjXUT",
+  "sec": "7YH5qY_wCmXixkfn4MzErea__N8Uqu4zJ8ENn85oaqYZqSOj",
+  "exchange": "bitmex",
+  "strategy": "strategy1",
+  "param_id": "parameter1",
+  "balance": "0.0050202",
+  "status": "pause",
+  "created_at": "2021-05-26T03:28:16.438Z",
+  "updated_at": "2021-05-26T03:28:16.438Z"
+},{
+  "_id": {
+    "$oid": "60ae732018c56968882e0817"
+  },
+  "name": "josiel reis sousa ",
+  "username": "top100",
+  "email": "naturacosmetico9@gmail.com",
+  "created_by": "bitcoinbot",
+  "id": "J_50XJtpOu36p4P14udepAVi",
+  "sec": "KP9LXtvpb7gECxl7rGhecdlvco_8XrUsU2hgjE1ks3zTxo5v",
+  "exchange": "bitmex",
+  "strategy": "strategy1",
+  "param_id": "parameter1",
+  "balance": "0.0108",
+  "status": "pause",
+  "created_at": "2021-05-26T16:11:12.154Z",
+  "updated_at": "2021-05-26T16:11:12.154Z"
+},{
+  "_id": {
+    "$oid": "60ae801218c56968882e0819"
+  },
+  "name": "Rosineia",
+  "username": "Nunes",
+  "email": "ritaernandes.agrosasp@gmail.com",
+  "created_by": "jsantos",
+  "id": "DZhFwFh5fnVUTo1NaFVcHXaI",
+  "sec": "rAAQ_3Hz3_FeM22xwhZQaCB9n3Yg0V1KCUaqaycuqsEVvd1Q",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.02460012",
+  "status": "pause",
+  "created_at": "2021-05-26T17:06:26.449Z",
+  "updated_at": "2021-05-26T17:06:26.449Z"
+},{
+  "_id": {
+    "$oid": "60ae911618c56968882e081b"
+  },
+  "name": "Yuri Castello Branco de Vasconcelos",
+  "username": "Mestreaugusto",
+  "email": "mestreaugustodesousa@gmail.com",
+  "created_by": "bitcoinbot",
+  "id": "1WdkH-5RvfAQyWkou8N_Vqyk",
+  "sec": "fY65BwlqeMdXbqTqFFKvftQ29SFRfw0XfG6sVmFs1w4AGc0a",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.04009078",
+  "status": "pause",
+  "created_at": "2021-05-26T18:19:02.162Z",
+  "updated_at": "2021-05-26T18:19:02.162Z"
+},{
+  "_id": {
+    "$oid": "60aeb2d118c56968882e081d"
+  },
+  "name": "Carlos Eduardo Castilho",
+  "username": "carlos_castilho",
+  "email": "carlosecastilho+1@gmail.com",
+  "created_by": "cleber",
+  "id": "q5sf9faq-3VDZimFJGo_IY-h",
+  "sec": "SBYhYvceqQqe1-tSOT3x9porywS3p9IGnoy-UpKVidPHrjcU",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.01402792",
+  "status": "pause",
+  "created_at": "2021-05-26T20:42:57.666Z",
+  "updated_at": "2021-05-26T20:42:57.666Z"
+},{
+  "_id": {
+    "$oid": "60aec62418c56968882e081f"
+  },
+  "name": "Américo Maia",
+  "username": "americo_maia",
+  "email": "contatoamericomaia+1@gmail.com",
+  "created_by": "cleber",
+  "id": "amdKlGhNGWmlmJwfwApB0Eox",
+  "sec": "ZkaC1mRFubMdvT-wTuG3I0CGqD_TrR2lAcKkYG1LgN_hm1Te",
+  "exchange": "bitmex",
+  "strategy": "strategy3",
+  "param_id": "parameter1",
+  "balance": "0.02212694",
+  "status": "pause",
+  "created_at": "2021-05-26T22:05:24.660Z",
+  "updated_at": "2021-05-26T22:05:24.660Z"
+}]

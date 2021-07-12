@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "608786d80224a728cd63e4f4"
+  },
+  "name": "Bono Sting Heuson Costa",
+  "username": "bhewson",
+  "email": "hewson000@gmail.com",
+  "created_by": "bhewson",
+  "id": "IsrK3924dyQft24vq96tBEc-",
+  "sec": "0Fw_74FCAQPvG3rTizk3cfY0fg_ZyM5H7YijRuSzWmBcbB6s",
+  "exchange": "bitmex",
+  "strategy": "strategy2",
+  "param_id": "parameter1",
+  "balance": "0.00257109",
+  "status": "pause",
+  "created_at": "2021-03-30T11:24:35.981Z",
+  "updated_at": "2021-04-26T21:45:45.061Z"
+}]

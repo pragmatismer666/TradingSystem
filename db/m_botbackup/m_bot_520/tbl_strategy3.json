@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "607c450cf78a2c0bb60ec4d1"
+  },
+  "param": "parameter1",
+  "vol": "3000000",
+  "vol_count": "10",
+  "vol_size": "1m",
+  "orders": "95",
+  "qtyrate": "3",
+  "distance": "200",
+  "take": "200",
+  "Inverse": "false",
+  "buy_sell": "buy",
+  "name": "BitcoinBotts 2.0"
+},{
+  "_id": {
+    "$oid": "60a4fd8b9d5a49623c7b59a8"
+  },
+  "param": "parameter2",
+  "vol": "59000000",
+  "vol_count": "10",
+  "vol_size": "1m",
+  "orders": "95",
+  "qtyrate": "2",
+  "distance": "100",
+  "take": "200",
+  "Inverse": "true",
+  "buy_sell": "sell",
+  "name": "BitcoinBotts 4.0"
+}]

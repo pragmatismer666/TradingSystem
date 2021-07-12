@@ -1,0 +1,825 @@
+starting server on port 5000
+ ----------------- start bitdelall 
+ ----------------- start entry 
+ ----------------- end entry 
+ ----------------- start bitdelall 
+ ----------------- start entry 
+ ----------------- end bitdelall 
+ ----------------- end entry 
+ ----------------- start bitdelall 
+ ----------------- end bitdelall 
+ ----------------- start entry 
+ ----------------- end entry 
+ ----------------- end bitdelall 
+ ----------------- start bitdelall 
+ ----------------- start entry 
+ ----------------- end entry 
+ ----------------- end bitdelall 
+bitmex gVmFg1EyPSDHMi4jBSkQzGX3 XRtirB6tNH8qeQbPQ6RNCi4h-5LNE-XHmHVw59hYGkqZ0D4H strategy3 parameter2  === exchange,key,sec,strategy,param
+=================================================================
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+bitmex 0NJZVLfnEE6qZBseXuVTEOrO 7IJefDYrCiKBCpNVzn9cR-qEKwtLyzh-EiMhDQXVp0TIQH-j strategy2 parameter1  === exchange,key,sec,strategy,param
+=================================================================
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+bitmex IsrK3924dyQft24vq96tBEc- 0Fw_74FCAQPvG3rTizk3cfY0fg_ZyM5H7YijRuSzWmBcbB6s strategy2 parameter1  === exchange,key,sec,strategy,param
+=================================================================
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+bitmex YT9Yj8atl6HMx64bAEW-Ppw7 F4-dJBbQodaXnMTmwrDGXjE3gF_eppLPM8Mc8TLtTv3adA6U strategy2 parameter2  === exchange,key,sec,strategy,param
+=================================================================
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+0  2458690 1000000  ----------------- orderlen1, tporder.orderID
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+1000000  --- start bitcheckvol
+54376.6 54421.5 false buy  ema -----------------------------------
+-----------------------------------------------------------------
+865048 Buy ============================= amount, side
+ ---------------------------- start bitmulti 3
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3
+ ---------------------------------------------- end bitcheckvol {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":23,"price":54636,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ------------------------- bit check vol result  23 54636 7d41c75e-d906-4b90-a4da-d6160cc2471b
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+update Filled 25208fe8-7844-4239-b602-06746d9af621 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+await bitdelopp(key,secret,orderopt,values,orders,strategy2)
+ ----------------- start bitdelopp 
+ ----------------- start entry 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54436.5814 46
+ ------------------------------------- tporder  54636
+ ----------------- end entry 
+4f7c11df-bac0-495b-a26b-92e84510bd84 ==== orders[m].orderID 
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":46,"price":54636,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+symbol=XBTUSD&side=Sell&orderQty=8&price=54781&ordType=Limit {"orderID":"64feb5e3-ec25-4eec-b483-624a8c515a72","clOrdID":"","clOrdLinkID":"","account":1680823,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":8,"price":54781,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":8,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:38.126Z","timestamp":"2021-05-04T15:38:38.126Z"}  ----------------- profitable order 
+ ----------------- end bitdelopp 
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+update Filled 8f20d050-ed0f-4a51-b026-627f9fa3a680 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54407 69
+ ------------------------------------- tporder  54636
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":69,"price":54607,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+update Filled 8b28b1c7-f833-4d0d-bec8-15d1aa5297a4 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54406.9641 92
+ ------------------------------------- tporder  54607
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":92,"price":54606,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+update Filled 82129eb7-1b61-441d-9295-8c517bc4394f 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54406.9641 115
+ ------------------------------------- tporder  54606
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":115,"price":54606,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+update Filled fa75c558-7088-40be-8579-a4c8585e2dcb 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54377.379 138
+ ------------------------------------- tporder  54606
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+update Filled 4d51e2ad-02ea-4012-9bfd-375ec4925a6f 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":138,"price":54577,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+update Filled 8c0d4677-4c8c-496f-9a4f-537a215e8fd4 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54377.379 184
+ ------------------------------------- tporder  54577
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54377.379 184
+ ------------------------------------- tporder  54577
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":184,"price":54577,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":184,"price":54577,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+update Filled 89bbeb8d-c02a-44f1-89b4-cfdbd87c77c9 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54347.8261 207
+ ------------------------------------- tporder  54577
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":207,"price":54547,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+update Filled 580156ab-e910-4c5d-b0e6-c27e3c6779de 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled de684190-5b4c-4dda-a046-b4d8c8d37f7e 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54347.8261 253
+ ------------------------------------- tporder  54547
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54347.8261 253
+ ------------------------------------- tporder  54547
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":253,"price":54547,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":253,"price":54547,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+update Filled 0f50e8f3-8640-4edc-866d-76240c28d7f6 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54318.3053 276
+ ------------------------------------- tporder  54547
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":276,"price":54518,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+update Filled 4bfcca9d-f46b-4c17-9915-fc60f3cf5b7a 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled b3d59c05-0171-4e80-a3eb-387bc86a89cb 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54318.3053 299
+ ------------------------------------- tporder  54518
+-----------------------------------------------------------------
+ ----------------- start entry 
+-----------------------------------------------------------------
+update Filled a8058fb1-b88b-41cf-a780-62351e530c06 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- end entry 
+ ------------------------------------- result  54318.3053 299
+ ------------------------------------- tporder  54518
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":299,"price":54518,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54318.3053 322
+ ------------------------------------- tporder  54518
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":322,"price":54518,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":322,"price":54518,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+update Filled c8963955-5150-425e-9ee9-0677a70e1660 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54288.8165 368
+ ------------------------------------- tporder  54518
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":368,"price":54488,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+update Filled 3fe46e47-dad5-4afc-a9c5-b8fe9b0f1371 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54288.8165 391
+ ------------------------------------- tporder  54488
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+await bitdelopp(key,secret,orderopt,values,orders,strategy2)
+ ----------------- start bitdelopp 
+-----------------------------------------------------------------
+await bitdelopp(key,secret,orderopt,values,orders,strategy2)
+ ----------------- start bitdelopp 
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":391,"price":54488,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ----------------- start entry 
+ ----------------- start entry 
+ ----------------- end entry 
+4684404b-2845-473e-a4cb-7cee3fb0c26b ==== orders[m].orderID 
+ ----------------- end entry 
+f7fc1b3b-19ee-4e58-a935-eb7b155681c6 ==== orders[m].orderID 
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+symbol=XBTUSD&side=Sell&orderQty=14&price=54551&ordType=Limit {"orderID":"4b6bfaa7-a475-400f-b1e6-b1b60d142a61","clOrdID":"","clOrdLinkID":"","account":993451,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":14,"price":54551,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":14,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:56:20.537Z","timestamp":"2021-05-04T15:56:20.537Z"}  ----------------- profitable order 
+ ----------------- end bitdelopp 
+symbol=XBTUSD&side=Sell&orderQty=6&price=54551&ordType=Limit {"orderID":"a04d3604-8671-44a8-b63b-a4f6b493fbc0","clOrdID":"","clOrdLinkID":"","account":306753,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":6,"price":54551,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":6,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:56:20.548Z","timestamp":"2021-05-04T15:56:20.548Z"}  ----------------- profitable order 
+ ----------------- end bitdelopp 
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+update Filled 25c3de6a-053f-40b2-b562-bebd0fd1ea0a 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54259.3597 414
+ ------------------------------------- tporder  54488
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":414,"price":54459,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+update Filled 3302863b-c10e-4003-a85b-bb3bcd278f48 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled 8ef0bad6-4733-45e8-ad4c-0cca74b3744a 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54259.3597 460
+ ------------------------------------- tporder  54459
+ ----------------- start entry 
+-----------------------------------------------------------------
+ ----------------- end entry 
+ ------------------------------------- result  54259.3597 460
+ ------------------------------------- tporder  54459
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":460,"price":54459,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":460,"price":54459,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+update Filled 87513a33-c99e-41ce-984f-2a26bb430cae 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54229.9349 483
+ ------------------------------------- tporder  54459
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":483,"price":54429,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+ bitstrategy2 bitupdatetp2 start ----------------- 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------ bitstrategy2 bitupdatetp2 part {"orderID":"64feb5e3-ec25-4eec-b483-624a8c515a72","clOrdID":"","clOrdLinkID":"","account":1680823,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":24,"price":54553,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":8,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:38.126Z","timestamp":"2021-05-04T15:38:38.126Z"}
+-----------------------------------------------------------------
+update Filled 962f4612-362f-4ca3-8832-d28378518930 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled e69d5fde-1dab-4c76-a027-3ec6df93e444 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54229.9349 529
+ ------------------------------------- tporder  54429
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54229.9349 529
+ ------------------------------------- tporder  54429
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":529,"price":54429,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":529,"price":54429,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+update Filled bedd2cc6-691d-4bd5-80fe-6eb62e138848 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled 8bda0851-bc9d-4b98-b609-27700005baf6 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled c7dd5e7a-3655-48d0-9ad8-c6badb361649 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled bb641ac2-e961-48e2-979f-4ccc5428b6ab 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled 42e8e5aa-da2d-433c-a84f-552dcb2cb07d 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54141.8517 667
+ ------------------------------------- tporder  54429
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54141.8517 667
+ ------------------------------------- tporder  54341
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54141.8517 667
+ ------------------------------------- tporder  54341
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54141.8517 667
+ ------------------------------------- tporder  54341
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54141.8517 667
+ ------------------------------------- tporder  54341
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":667,"price":54341,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":667,"price":54341,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":667,"price":54341,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":667,"price":54341,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":667,"price":54341,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+update Filled d8771e28-c27b-4d46-b44b-34593c913f0b 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled 2ad831e9-9297-4cda-9b7a-94472cd41882 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled 5282675e-bd7a-43e6-93e2-0bbad807d031 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled cbc79fde-e14e-4ed5-86d3-e5882aed6aee 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- start entry 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54054.0541 897
+ ------------------------------------- tporder  54341
+ ----------------- end entry 
+ ------------------------------------- result  54054.0541 897
+ ------------------------------------- tporder  54254
+ ----------------- end entry 
+ ------------------------------------- result  54054.0541 897
+ ------------------------------------- tporder  54254
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54054.0541 897
+ ------------------------------------- tporder  54254
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":897,"price":54254,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":897,"price":54254,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":897,"price":54254,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":897,"price":54254,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+update Filled af7a17bf-1302-4047-afe7-11f6742103b3 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+ bitstrategy2 bitupdatetp2 start ----------------- 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54054.0541 920
+ ------------------------------------- tporder  54254
+ ----------------- start entry 
+-----------------------------------------------------------------
+ bitstrategy2 bitupdatetp2 start ----------------- 
+-----------------------------------------------------------------
+update Filled adb9a5fc-4b66-4352-bdfa-017e02c604c7 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+ bitstrategy2 bitupdatetp2 start ----------------- 
+-----------------------------------------------------------------
+ ----------------- end entry 
+ ------------------------------------ bitstrategy2 bitupdatetp2 part {"orderID":"64feb5e3-ec25-4eec-b483-624a8c515a72","clOrdID":"","clOrdLinkID":"","account":1680823,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":56,"price":54261,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":8,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:38.126Z","timestamp":"2021-05-04T15:38:38.126Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- start entry 
+ ----------------- start entry 
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":920,"price":54254,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+ ----------------- end entry 
+ ------------------------------------- result  54024.8514 943
+ ------------------------------------- tporder  54254
+ ----------------- end entry 
+ ------------------------------------ bitstrategy2 bitupdatetp2 part {"orderID":"a04d3604-8671-44a8-b63b-a4f6b493fbc0","clOrdID":"","clOrdLinkID":"","account":306753,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":18,"price":54252,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":6,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:56:20.548Z","timestamp":"2021-05-04T15:56:20.548Z"}
+ ----------------- end entry 
+ ------------------------------------ bitstrategy2 bitupdatetp2 part {"orderID":"4b6bfaa7-a475-400f-b1e6-b1b60d142a61","clOrdID":"","clOrdLinkID":"","account":993451,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":42,"price":54252,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":14,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:56:20.537Z","timestamp":"2021-05-04T15:56:20.537Z"}
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"7d41c75e-d906-4b90-a4da-d6160cc2471b","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":943,"price":54224,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T15:38:18.676Z","timestamp":"2021-05-04T15:38:18.676Z"}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+update Filled 7d41c75e-d906-4b90-a4da-d6160cc2471b 7d41c75e-d906-4b90-a4da-d6160cc2471b  ============== values.action ,values.data[0].ordStatus
+ ----------------- start bitdelall 
+-----------------------------------------------------------------
+ bitstrategy2 take profit filled ----------------- 
+ ----------------- start bitdelall 
+-----------------------------------------------------------------
+ bitstrategy2 take profit filled ----------------- 
+ ----------------- start bitdelall 
+-----------------------------------------------------------------
+ bitstrategy2 take profit filled ----------------- 
+ ----------------- start bitdelall 
+ ----------------- start entry 
+ ----------------- end entry 
+ ----------------- start entry 
+ ----------------- start entry 
+ ----------------- end entry 
+ ----------------- end entry 
+-----------------------------------------------------------------
+ ----------------- start entry 
+-----------------------------------------------------------------
+ ----------------- end entry 
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+ ----------------- end bitdelall 
+ ----------------- end bitdelall 
+ ----------------- end bitdelall 
+ ----------------- end bitdelall 
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+0  5912783 1000000  ----------------- orderlen1, tporder.orderID
+ ----------------- start entry 
+ ----------------- end entry 
+1000000  --- start bitcheckvol
+54057.8 54215 false buy  ema -----------------------------------
+865048 Buy ============================= amount, side
+ ---------------------------- start bitmulti 3
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ---------------------------- end bitmulti 3
+ ---------------------------------------------- end bitcheckvol {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":23,"price":54430,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+ ------------------------- bit check vol result  23 54430 0a422668-b30f-466a-b100-1e9b11cc1fd6
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+await bitdelopp(key,secret,orderopt,values,orders,strategy2)
+ ----------------- start bitdelopp 
+-----------------------------------------------------------------
+update Filled 29828cc9-75fc-4aad-b3c7-564f7f39e78f 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled ec9b45cd-6e61-4e2f-b6e2-e2a58a186398 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- start entry 
+ ----------------- end entry 
+f6eda12e-7f63-4470-b01d-e15117f8a2ff ==== orders[m].orderID 
+ ----------------- end entry 
+ ------------------------------------- result  54200.5 69
+ ------------------------------------- tporder  54430
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+update Filled cb95aed6-1567-4d2e-b34e-2fc3aec25a17 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54200.5 69
+ ------------------------------------- tporder  54400
+-----------------------------------------------------------------
+update Filled 49d2e9b8-4f25-4525-90e3-bff6392fe07e 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":69,"price":54400,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+symbol=XBTUSD&side=Sell&orderQty=8&price=54579&ordType=Limit {"orderID":"7063be8b-ebef-4c74-a263-6ed443cc786b","clOrdID":"","clOrdLinkID":"","account":1680823,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":8,"price":54579,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":8,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:14:09.821Z","timestamp":"2021-05-04T16:14:09.821Z"}  ----------------- profitable order 
+ ----------------- end bitdelopp 
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54200.542 92
+ ------------------------------------- tporder  54400
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":92,"price":54400,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54200.542 115
+ ------------------------------------- tporder  54400
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":115,"price":54400,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":115,"price":54400,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+update Filled 7d6c401a-c149-4259-bf61-a87889c69247 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54171.1809 138
+ ------------------------------------- tporder  54400
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":138,"price":54371,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+-----------------------------------------------------------------
+update Filled fb9680ad-c3e5-4448-99c8-1b3977f7be93 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54171.1809 161
+ ------------------------------------- tporder  54371
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":161,"price":54371,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+update Filled 8d0e77ad-646e-4efe-98ed-f49c46e84cd1 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54171.1809 184
+ ------------------------------------- tporder  54371
+-----------------------------------------------------------------
+update Filled c201412f-d272-465c-8432-3d0061aba7d8 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":184,"price":54371,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54141.8517 207
+ ------------------------------------- tporder  54371
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+update Filled 25fe054f-ddbe-4a65-b4e0-ecbe128e3bc4 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled a7ec7834-a7a8-451c-9102-ccf9f4c14792 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":207,"price":54341,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54141.8517 253
+ ------------------------------------- tporder  54341
+ ----------------- start entry 
+-----------------------------------------------------------------
+ ----------------- end entry 
+ ------------------------------------- result  54141.8517 253
+ ------------------------------------- tporder  54341
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":253,"price":54341,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":253,"price":54341,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+-----------------------------------------------------------------
+update Filled a8e009f4-a654-4eba-a8e4-d9b0b1eb59c7 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled 14002643-1133-444d-8405-e49f172d68aa 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54112.5541 299
+ ------------------------------------- tporder  54341
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54112.5541 299
+ ------------------------------------- tporder  54312
+-----------------------------------------------------------------
+update Filled 4bdfca5b-d7ff-4df1-a60c-2f413ed08180 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":299,"price":54312,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":299,"price":54312,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+-----------------------------------------------------------------
+await bitdelopp(key,secret,orderopt,values,orders,strategy2)
+ ----------------- start bitdelopp 
+-----------------------------------------------------------------
+update Filled 8dfe0f55-a6e0-4f6a-a15e-3bfdd3be5329 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+await bitdelopp(key,secret,orderopt,values,orders,strategy2)
+ ----------------- start bitdelopp 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54112.5541 322
+ ------------------------------------- tporder  54312
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- start entry 
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54083.2883 345
+ ------------------------------------- tporder  54312
+ ----------------- end entry 
+48b7e259-0e31-4dfb-aedb-922ee0715671 ==== orders[m].orderID 
+ ----------------- end entry 
+ebacd761-adde-4727-8bdb-cc163272de7b ==== orders[m].orderID 
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":345,"price":54283,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+-----------------------------------------------------------------
+update Filled d3e69d64-205f-4b59-903d-cb0d455ee52b 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled f908e547-89d9-4e1b-b2ed-5b0dfbe837f4 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+-----------------------------------------------------------------
+update Filled 6f1dd6d4-cb74-4b01-8bdf-e44900bfec66 0a422668-b30f-466a-b100-1e9b11cc1fd6  ============== values.action ,values.data[0].ordStatus
+values.data[0].orderID != tporder.orderID
+ ------------------------------------- start bitupdatetp 
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":345,"price":54283,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+symbol=XBTUSD&side=Sell&orderQty=6&price=54397&ordType=Limit {"orderID":"0ae97403-9e94-4c0a-a8d9-1b3d366e3b0a","clOrdID":"","clOrdLinkID":"","account":306753,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":6,"price":54397,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":6,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:16:02.866Z","timestamp":"2021-05-04T16:16:02.866Z"}  ----------------- profitable order 
+ ----------------- end bitdelopp 
+-----------------------------------------------------------------
+symbol=XBTUSD&side=Sell&orderQty=14&price=54397&ordType=Limit {"orderID":"b85eb308-0f7f-4545-aad4-3326c1d0450e","clOrdID":"","clOrdLinkID":"","account":993451,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":14,"price":54397,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":14,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:16:02.875Z","timestamp":"2021-05-04T16:16:02.875Z"}  ----------------- profitable order 
+ ----------------- end bitdelopp 
+-----------------------------------------------------------------
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54083.2883 345
+ ------------------------------------- tporder  54283
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54083.2883 345
+ ------------------------------------- tporder  54283
+ ----------------- start entry 
+ ----------------- end entry 
+ ------------------------------------- result  54083.2883 345
+ ------------------------------------- tporder  54283
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":345,"price":54283,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":345,"price":54283,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+ ------------------------------------- end bitupdatetp {"orderID":"0a422668-b30f-466a-b100-1e9b11cc1fd6","clOrdID":"","clOrdLinkID":"","account":1509271,"symbol":"XBTUSD","side":"Sell","simpleOrderQty":null,"orderQty":345,"price":54283,"displayQty":null,"stopPx":null,"pegOffsetValue":null,"pegPriceType":"","currency":"USD","settlCurrency":"XBt","ordType":"Limit","timeInForce":"GoodTillCancel","execInst":"","contingencyType":"","exDestination":"XBME","ordStatus":"New","triggered":"","workingIndicator":true,"ordRejReason":"","simpleLeavesQty":null,"leavesQty":23,"simpleCumQty":null,"cumQty":0,"avgPx":null,"multiLegReportingType":"SingleSecurity","text":"Submitted via API.","transactTime":"2021-05-04T16:12:18.692Z","timestamp":"2021-05-04T16:12:18.692Z"}
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check
+-----------------------------------------------------------------
+ ------- this is general tporder. 
+ ----------------- start check

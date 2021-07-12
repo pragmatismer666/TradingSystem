@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./reg.css">
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+</head>
+
+<body>
+	<hr>
+    <div class="container" style="width: 55%;">
+    	<img src="logo_bitcoinbotts.png" style="margin-left: 30%;width: 40%;" / >
+        <!-- <h1 style="text-align:center">Welcome to BotSatoshi - Bitmex Bot</h1>
+        <p>Please fill in this form to register an account.</p> -->
+        <h1 style="text-align:center">Bem vindo ao BitcoinBotts, fa&ccedil;a o seu cadastro</h1>
+        <p style="text-align:center">Por favor cadastra o seus dados.</p>
+        <hr>
+        <label for="name"><b>Name</b></label>
+        <input type="text" placeholder="Enter Name" name="name" id="name" required>
+
+        <label for="username"><b>UserName</b></label>
+        <input type="text" placeholder="Enter UserName" name="username" id="username" required> 
+
+        <label for="email"><b>Email</b></label>
+        <input type="text" placeholder="Your Email Here" name="email" id="email" required>
+
+        <label for="created_by"><b>Manager</b></label>
+        <input type="text" placeholder="Manager Nickname" name="created_by" id="created_by" required>
+
+        <label for="id"><b>ID</b></label>
+        <input type="text" placeholder="Your Api Here" name="id" id="id" required>
+
+        <label for="sec"><b>Secret Key</b></label>
+        <input type="text" placeholder="Your Key Here" name="sec" id="sec" required>
+
+        <!-- <label for="exchange"><b>Exchange</b></label> -->
+        <!-- <select name="exchange" id="exchange" class="twoline h-6" required>
+            <option disabled>Please select exchange</option>
+            <option value="binance">Binance</option>
+            <option value="bitmex">Bitmex</option>
+        </select> -->
+
+        <label for="strategy"><b>Strategy</b></label>
+        <select name="strategy" id="strategy" class="twoline h-6" required></select>
+        <!-- <div id="paramarea" style="display: flex;">
+        	<input type="radio" name="param_id" id="parameter1" value="parameter1" style="margin-left:10%;display: none;" checked="true"><span id="parameter1title" style="display: none;"></span><br>
+			<input type="radio" name="param_id" id="parameter2" value="parameter2" style="margin-left:10%;display: none;"><span id="parameter2title" style="display: none;">Parameter2</span><br>
+			<input type="radio" name="param_id" id="parameter3" value="parameter3" style="margin-left:10%;display: none;"><span id="parameter3title" style="display: none;">Parameter3<span><br>
+        </div>       -->  
+        <button type="button" class="registerbtn" onclick="register()">Create Your Account</button>
+    </div>
+</body>
+</html>
+<script>
+var backUrl = "http://159.65.57.176:5000";
+// var backUrl = "http://localhost:5000";
+$( document ).ready(async function() {
+	var realData = [];
+	var strategys = ['strategy1','strategy2','strategy3'];
+	for (let i = 0;i < strategys.length ; i++) {
+		var data = await getStrategy(strategys[i]);
+		for (let j = 0; j<data.length; j++) {
+			realData.push({strategy:strategys[i],param:data[j].param,name:data[j].name});
+		}
+	}
+	console.log(realData);
+	showList(realData);
+});
+
+async function getStrategy(key) {
+	return  await $.ajax({
+	  type: "GET",
+	  url: backUrl + "/special/" + key,
+	  dataType:'json',
+    })
+    .then(function(response){
+      	return response;
+    });
+}
+
+function showList(list){
+  	for (var i=0;i<=list.length;i++){
+  		$("#strategy").append(new Option(list[i].name, list[i].strategy + "_" + list[i].param));
+	}
+}
+
+// function getRandomString(length) {
+//     var randomChars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+//     var result = '';
+//     for ( var i = 0; i < length; i++ ) {
+//         result += randomChars.charAt(Math.floor(Math.random() * randomChars.length));
+//     }
+//     return result;
+// }
+
+function register()	{
+	// var userkey = getRandomString(7);
+	var spValue = document.getElementById("strategy").options[document.getElementById("strategy").selectedIndex].value;
+	var params = {
+		name:document.getElementById("name").value,
+		username:document.getElementById("username").value,
+		email:document.getElementById("email").value,
+		created_by:document.getElementById("created_by").value,
+		id:document.getElementById("id").value,
+		sec:document.getElementById("sec").value,
+		exchange:"bitmex",
+		strategy:spValue.split('_')[0],
+		param_id:spValue.split('_')[1]
+	};
+	console.log(params);
+	$.ajax({
+	  type: "POST",
+	  url: backUrl + "/special/client_register",
+	  data: params,
+	  success: function(data, textStatus, jqXHR){ 
+    	console.log(data);
+    	if (data.message == "manager no"){
+    		alert("You need to input correct manager name.");
+    	}
+    	else if (data.message == "username exist"){
+    		alert("Username is existed, You need to input correct username.");
+    	}
+    	else if (data.message == "email exist"){
+    		alert("Email is existed, You need to input other email.");
+    	}
+    	else if (data.message == "api no"){
+    		alert("Api key is not correct or balance is less than 0.005BTC.");
+    	}
+    	else if (data.message == "amount no"){
+    		alert("Please deposit to your exchange account.");
+    	}
+    	else if (data.message == "success"){
+    		alert("Successfully registered.");
+    		window.location.replace("https://bitcoinbotts.com/cadastra-sucesso/");
+    	}
+    }
+	});
+}
+</script>
